@@ -1,4 +1,4 @@
-# Road-Accidents-Report
+# Road-Accidents-Anaylsis
 
 
 Welcome to the Road Accident Analysis project! This project focuses on analyzing road accident data to gain insights into contributing factors and propose road safety strategies. The analysis is conducted using Power BI, a powerful data visualization and analysis tool.
